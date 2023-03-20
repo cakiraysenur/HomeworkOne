@@ -20,7 +20,7 @@ Bu _italik_.
 
 **Soru 3** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+Bu **_kalın_** italik.
 
 **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
 
