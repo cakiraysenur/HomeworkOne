@@ -42,7 +42,12 @@ Bu **_kalın_** italik.
 
 **Soru 8** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
 
-Cevabınızı buraya yazınız!
+```{r}
+x <- 3
+y <- 5
+y-x
+```
+
 
 **Soru 9** LaTeX kullanarak bir blok denklem yazınız
 
