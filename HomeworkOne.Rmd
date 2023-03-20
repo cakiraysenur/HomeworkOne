@@ -1,6 +1,6 @@
 ---
 title: "Ödev 1"
-author: "Ad Soyad"
+author: "Aysenur Cakir"
 ---
 
 ```{r global_options, include=FALSE}
@@ -12,7 +12,7 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Soru 1** Markdown kullanarak bir kelimesi kalın olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+Bu **kalın**.
 
 **Soru 2** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
 
