@@ -34,7 +34,7 @@ Bu **_kalın_** italik.
 
 **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
-Cevabınızı buraya yazınız!
+[Mülkiye](http://www.politics.ankara.edu.tr/)
 
 **Soru 7** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
 
