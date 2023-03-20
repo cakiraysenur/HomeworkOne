@@ -23,7 +23,9 @@ Bu _italik_.
 Bu **_kalın_** italik.
 
 **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
-
+*domates
+*biber
+*patlıcan
 
 
 **Soru 5** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
