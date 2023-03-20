@@ -24,11 +24,13 @@ Bu **_kalın_** italik.
 
 **Soru 4** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
 
-Cevabınızı buraya yazınız!
+
 
 **Soru 5** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
 
-Cevabınızı buraya yazınız!
+1. ekmek
+2. yumurta
+3. peynir
 
 **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
