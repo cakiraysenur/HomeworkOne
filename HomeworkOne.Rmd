@@ -16,7 +16,7 @@ Bu **kalın**.
 
 **Soru 2** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+Bu _italik_.
 
 **Soru 3** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
 
