@@ -57,4 +57,9 @@ $A=\pi*r^{2}$
 
 **Soru 9** Bir kod bloğu ekleyerek 5 + 4 toplamını hesaplayınız.
 
-Cevabınızı buraya yazınız!
+```{r}
+k <- 5
+l <- 4
+k+l
+```
+
